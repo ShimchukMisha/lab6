@@ -1,0 +1,15 @@
+.App {
+  text-align: left-side;
+  width: 55%;
+  margin: 5%;
+  margin-right: auto;
+  display: flex;
+}
+
+.App-header {
+  height: 150px;
+  padding: 30px;
+}
+
+.App-body {
+}
